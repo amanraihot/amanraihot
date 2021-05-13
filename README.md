@@ -32,7 +32,7 @@
 # ❤ to Code - Software Engineering Aspirant & Enthusiast!
 
 
-Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build  some real stuff through amalgmation of algorithm and design. My working principle is hustle till you dont find the solution. Always up for a discussion on  softwares, design, edtech, algorithms. ✌💖
+Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build  some real stuff through amalgmation of algorithm and design. My mantra is hustle till you dont find the solution. Always up for a discussion on  softwares, design, edtech, algorithms. ✌💖
 
 <!-- section - intro -->
 
