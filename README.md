@@ -32,7 +32,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build  some real stuff through amalgmation of algorithm and design. My working principle is hustle till you dont find the solution. Always up for a discussion on  softwares, design, edtech, algorithms. ✌💖
 
 <!-- section - intro -->
 
