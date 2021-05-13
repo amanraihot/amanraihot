@@ -53,7 +53,7 @@ Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build 
 
 ## I work on .. 💻
 
-Spring Boot . Spring Security . Algorithms 
+Spring Boot . Spring Security . Algorithms .Django
 
 Postgresql . Maria Db
 
