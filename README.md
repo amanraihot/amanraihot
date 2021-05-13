@@ -53,11 +53,11 @@ Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build 
 
 ## I work on .. 💻
 
-Django . React.js . Microservices . Docker . AWS Services
+Spring Boot . Spring Security . Algorithms 
 
-Postgresql . MongoDB . Redis . DynamoDB
+Postgresql . Maria Db
 
-Python . JavaScript . C++ . Java
+Java . C++ . Python . JavaScript
 
 <!-- section - skills -->
 
@@ -65,11 +65,9 @@ Python . JavaScript . C++ . Java
 
 ## On the job .. 💯
 
-> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
+> Teaching Assistant  - [**Scaler Academy**](https://www.scaler.com/academy)  ⭐
 
-> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
-
-> Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+>SDE Intern - [**BossCoder Academy**](https://www.scaler.com/academy)
 
 
 <!-- section - job details -->
@@ -85,7 +83,7 @@ Python . JavaScript . C++ . Java
 
 📰 Reading & writing _TECH BLOGS_
 
-🍕 _HACKATHONS_ & problem solving
+🍕 Problem solving
 
 <!-- section - interests -->
 
