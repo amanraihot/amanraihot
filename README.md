@@ -29,7 +29,7 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# ❤ to Code - Software Engineering Aspirant & Enthusiast!
 
 
 Hi, I'm Rai — a **Junior Cse Major** at **KIIT UNIVERSITY** learning to build  some real stuff through amalgmation of algorithm and design. My working principle is hustle till you dont find the solution. Always up for a discussion on  softwares, design, edtech, algorithms. ✌💖
@@ -91,23 +91,15 @@ Java . C++ . Python . JavaScript
 
 ## Check my blogs & posts .. ✨
 
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+- [Spring Security](https://amanraihot.medium.com/how-does-spring-security-works-d97225ebcf79)
 
-- [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
+- [Never Underestimate Time Complexity](https://amanraihot.medium.com/never-underestimate-time-complexity-add40f3df696)
 
-- [Dockerize Django PostgreSQL — Simple Set-Up using Docker Compose](https://medium.com/@ombharatiya/dockerize-django-postgresql-simple-docker-compose-set-up-ombharatiya-13026aa142c3)
+- [Count of seats booked on each of the given N flights](https://www.geeksforgeeks.org/count-of-seats-booked-on-each-of-the-given-n-flights/)
 
-- [Failure Story behind the Demo-2 launch mission of SpaceX cc Elon Musk](https://www.linkedin.com/posts/activity-6672761818504679424-y1Cf)
+- [Sliding Window Patterns](https://www.linkedin.com/feed/update/urn:li:activity:6754244217087823872/)
 
-- [Lightsabers Problem - Hashing](https://medium.com/@ombharatiya/lightsabers-problem-hashing-programming-in-c-b546c6f5331a)
-
-- [Why Java in the name of JavaScript](https://www.linkedin.com/posts/activity-6674171656325468160-u48L)
-
-- [₹ 1.5 Crore worth resources to students by GitHub](https://www.linkedin.com/posts/activity-6669904120138350592-U1wQ)
-
-- [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
-
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
+- [BackTracking A general idea](https://www.linkedin.com/feed/update/urn:li:activity:6752186369205960704/)
 
 <!-- section - blogs -->
 
